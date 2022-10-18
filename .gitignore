@@ -124,6 +124,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+color_2_ph_value/
 ENV/
 env.bak/
 venv.bak/

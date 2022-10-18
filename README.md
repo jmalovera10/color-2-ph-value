@@ -6,7 +6,7 @@ This project offers a web server and a model that transforms a measurement based
 
 ## Prerequisites
 
-- Python 3.7
+- Python 3.8 or later
 - Venv or conda
 
 ## Setup
